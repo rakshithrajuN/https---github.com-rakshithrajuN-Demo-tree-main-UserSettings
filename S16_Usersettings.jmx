@@ -13,7 +13,7 @@
       <Arguments guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
         <collectionProp name="Arguments.arguments">
           <elementProp name="P_HostName" elementType="Argument">
-            <stringProp name="Argument.name">P_HostName</stringProp>
+            <stringProp name="Argument.name">HostName</stringProp>
             <stringProp name="Argument.value">apim-zee5-qa-ci1-csvc-0001.azure-api.net</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
